@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Produto p1 = new Produto("Mouse", 80.0, 10);
+        Produto p1 = new Produto("Mouse teste", 80.0, 10);
         Produto p2 = new Produto("Teclado", 120.0, 0);
         Produto p3 = new Produto("Cadeira", 500.0, 5);
         Produto p4 = new Produto("Fone", 40.0, 20);
